@@ -19,7 +19,7 @@ a {
   text-decoration: inherit;
 }
 a:hover {
-  color: #ff03c0;
+  color: #ff68039c;
 }
 
 body {
@@ -28,7 +28,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-   background-color: #ff03c0;
+   background-color: #ff6803;
    color: white;
 }
 
